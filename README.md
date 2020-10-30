@@ -1,3 +1,4 @@
 # My Portfolio
  Servicio Web
- Will upload soon due to much file. Github Web doen't allow me to upload >100 files
+I will hosting this website to github.io
+exclude assets, i will upload in gdrive and you can download it and move it into this folder (Servicio)
